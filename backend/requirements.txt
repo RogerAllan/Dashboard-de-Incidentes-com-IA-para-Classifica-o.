@@ -1,0 +1,9 @@
+flask
+flask-cors
+flask-restful
+psycopg2-binary
+pytest
+pytest-flask
+scikit-learn
+pandas
+tensorflow
